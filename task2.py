@@ -10,6 +10,6 @@ reversePhrase = randomPhrase[::-1]
 print("Words in normal Display: ")
 print(randomPhrase)
 print("-" * 30)
-# output for reverse of random words
+# output for reverse of random words 
 print("Words in reverse Display: ")
 print (reversePhrase)
